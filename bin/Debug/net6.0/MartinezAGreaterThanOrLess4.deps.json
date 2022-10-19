@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MartinezAGreaterThanOrLess4/1.0.0": {
+        "runtime": {
+          "MartinezAGreaterThanOrLess4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MartinezAGreaterThanOrLess4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
