@@ -19,3 +19,7 @@ ELSE IT WONT BE VAILD AND THEY WILL BE ASKED AGAIN UNTILL
 THEY TYPE YES OR NO.
 
 PEER REVIEW: NAME -- REVIEW
+
+Peer Review:Manuel L.
+The code looks great and it also looks organized, I like the validation because if someone trys to put something
+that's not meant for, it will boot it out, great job, everything works great :)
