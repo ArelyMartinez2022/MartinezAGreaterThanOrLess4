@@ -73,11 +73,17 @@ while(playAgain){
     if ( num1 > num2 ) {
         Console.WriteLine( num1 + " IS GREATER THAN " + num2);
         Console.WriteLine( num1 + "       >         " + num2);
+        Console.WriteLine( " " );
+        Console.WriteLine( num2 + " IS lESS THAN " + num1);
+        Console.WriteLine( num2 + "      <       " + num1);
     } if ( num1 < num2 ) {
         Console.WriteLine( num1 + " IS LESS THAN " + num2);
         Console.WriteLine( num1 + "     <        " + num2 );
+        Console.WriteLine( " " );
+        Console.WriteLine( num2 + " IS GREATER THAN " + num1);
+        Console.WriteLine( num2 + "      >      " + num1);
     } if ( num1 == num2 ) {
-         Console.WriteLine( num1 + " IS EQUAL TO " + num2);
+        Console.WriteLine( num1 + " IS EQUAL TO " + num2);
         Console.WriteLine( num1 + "       =      " + num2);
     }
 
